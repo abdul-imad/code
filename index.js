@@ -80,4 +80,10 @@ setTimeout(() => {
   setTimeout(() => {
     console.log("second timeout");
   }, 1000);
-}, 1000);
+}, 2000);
+
+function addTwoNum(a,b){
+  console.log(a+b);
+}
+
+addTwoNum(2,4)
