@@ -86,4 +86,4 @@ function addTwoNum(a,b){
   console.log(a+b);
 }
 
-addTwoNum(2,4)
+addTwoNum(2,3)
